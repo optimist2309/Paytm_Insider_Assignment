@@ -1,0 +1,8 @@
+{
+    "viewportWidth": 1366,
+    "viewportHeight": 336,
+    "watchForFilechanges": false,
+    "baseUrl": "https://insider.in/",
+    "pageLoadTimeout" : 90000
+
+}
